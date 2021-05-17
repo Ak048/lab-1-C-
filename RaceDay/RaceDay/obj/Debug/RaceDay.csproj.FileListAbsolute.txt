@@ -1,0 +1,10 @@
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\bin\Debug\RaceDay.exe.config
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\bin\Debug\RaceDay.exe
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\bin\Debug\RaceDay.pdb
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.csprojAssemblyReference.cache
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.Form1.resources
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.Properties.Resources.resources
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.csproj.GenerateResource.cache
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.csproj.CoreCompileInputs.cache
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.exe
+C:\Users\vmm\Source\Repos\RaceDay\RaceDay\obj\Debug\RaceDay.pdb

@@ -1,2 +1,2 @@
-# lab-1-Dog-race
+# lab-1-my project
 C#
